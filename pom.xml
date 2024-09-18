@@ -15,6 +15,7 @@
         <module>yun-oj-user</module>
         <module>yun-oj-common</module>
         <module>yun-oj-model</module>
+        <module>yun-oj-gateway</module>
     </modules>
     <properties>
         <java.version>11</java.version>
