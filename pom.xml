@@ -7,6 +7,11 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>yun-oj-gateway</name>
     <description>yun-oj-gateway</description>
+    <parent>
+        <groupId>com.yun</groupId>
+        <artifactId>yun-oj-microservice</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
     <properties>
         <java.version>11</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
